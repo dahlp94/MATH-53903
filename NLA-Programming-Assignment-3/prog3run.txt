@@ -1,0 +1,32 @@
+ 
+test 1     eps*cond(A) = 4.6262e-13     eps*cond^2(A) = 9.6383e-10
+cgs_resid: || A - QR || = 1.2861e-15
+mgs_resid: || A - QR || = 2.442e-15
+cgs_unitary: || Q'Q - I || = 2.173e-11
+mgs_unitary: || Q'Q - I || = 4.9973e-14
+R_diff: || Rc - Rm || = 1.0691e-12
+Q_diff: || Qc - Qm || = 1.6213e-11
+ 
+test 2     eps*cond(A) = 4.3547e-11     eps*cond^2(A) = 8.5402e-06
+cgs_resid: || A - QR || = 1.0117e-15
+mgs_resid: || A - QR || = 2.4209e-15
+cgs_unitary: || Q'Q - I || = 2.456e-07
+mgs_unitary: || Q'Q - I || = 7.1777e-12
+R_diff: || Rc - Rm || = 1.2254e-10
+Q_diff: || Qc - Qm || = 2.1021e-07
+ 
+test 3     eps*cond(A) = 5.2525e-09     eps*cond^2(A) = 0.12425
+cgs_resid: || A - QR || = 1.0399e-15
+mgs_resid: || A - QR || = 2.943e-15
+cgs_unitary: || Q'Q - I || = 0.0015551
+mgs_unitary: || Q'Q - I || = 3.6505e-10
+R_diff: || Rc - Rm || = 7.9437e-09
+Q_diff: || Qc - Qm || = 0.0011566
+ 
+test 4     eps*cond(A) = 4.4482e-07     eps*cond^2(A) = 891.0891
+cgs_resid: || A - QR || = 1.0795e-15
+mgs_resid: || A - QR || = 2.8432e-15
+cgs_unitary: || Q'Q - I || = 25.1538
+mgs_unitary: || Q'Q - I || = 4.9771e-08
+R_diff: || Rc - Rm || = 2.1427e-06
+Q_diff: || Qc - Qm || = 4.9756

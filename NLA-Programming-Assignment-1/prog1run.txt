@@ -1,0 +1,21 @@
+
+relerr1 =
+
+   6.6795e-17
+
+
+relerr2 =
+
+     0
+
+
+relerr3 =
+
+     0
+
+
+relerr4 =
+
+     0
+
+Matrix dimensions must agree!

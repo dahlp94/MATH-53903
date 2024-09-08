@@ -1,0 +1,13 @@
+If houseqr is working, this should be close to macheps:
+
+relnormchange =
+
+   1.4776e-16
+
+ 
+If both houseqr and houseqtact are working, this also should be close to macheps:
+
+relerr =
+
+   4.8519e-16
+

@@ -1,0 +1,4 @@
+The condition number of A is 1.5258e+10
+|| A - LU || / || A || =  1.6366e-17
+|| x - truex ||/|| truex || = 1.5408e-07
+|| b - Ax ||/|| b || = 1.8403e-16
